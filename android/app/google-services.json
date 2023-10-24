@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113797493850",
+    "project_id": "flutter-eogflix",
+    "storage_bucket": "flutter-eogflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113797493850:android:76810f2e139509bb14d463",
+        "android_client_info": {
+          "package_name": "com.example.flutter_netflix_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcPjbVYUZAZY1PBDi3OK0CF-BvPM-sRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
